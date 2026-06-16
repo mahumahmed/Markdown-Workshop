@@ -1,4 +1,4 @@
-# Infographic Workshop
+# Markdown Workshop
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://mahumahmed.github.io/Markdown-Workshop/
