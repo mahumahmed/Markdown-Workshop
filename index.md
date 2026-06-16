@@ -8,11 +8,11 @@ nav_order: 1
 
 # Markdown Workshop 
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
-- One more item
-- [My personal website](http)
+1. Pre-workshop activities: 00 min
+5. Introductory presentation: 00 min
+3. Hands-on activities: 00-00 min
+2. One more item
+8. [My personal website](http)
 
 ## GitHub
 
