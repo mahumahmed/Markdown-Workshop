@@ -6,13 +6,15 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Infographic Workshop 
 
 - Pre-workshop activities: 00 min 
 - Introductory presentation: 00 min
 - Hands-on activities: 00-00 min
+- One more item
+- [My personal website](http)
 
-## Why TOOL NAME HERE? 
+## Canva
 
 [TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
 
