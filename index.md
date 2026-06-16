@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/newyork.jpg" style="float:right;width:180px;" alt="image description">
 
 # Markdown Workshop 
 
@@ -13,6 +13,8 @@ nav_order: 1
 3. Hands-on activities: 00-00 min
 2. One more item
 8. [My personal website](http)
+
+![decorative](images/newyork.jpg)
 
 ## GitHub
 
